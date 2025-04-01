@@ -261,11 +261,13 @@ Bot: LinkAja is a digital payment platform in Indonesia. Thanks for asking!
 ---
 
 ### Screenshots
-- **Chatbot Interface**: [Insert screenshot here]
-- **Successful Container Build**: [Insert screenshot here]
 
-### Video Demo
-- [Link to video or embedded file]
+![Screenshot](image/image.png)
+
+### Demo Video
+
+[Watch the Demo Video](https://drive.google.com/file/d/1pAP2BvpvQtY8dstVoTVVEXb9If4Bc1Sx/view?usp=drivesdk)
+
 
 ---
 

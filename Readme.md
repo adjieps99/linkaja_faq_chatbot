@@ -256,16 +256,8 @@ Bot: LinkAja is a digital payment platform in Indonesia. Thanks for asking!
 - **JSON File Not Found**: Verify `linkaja_pair_question_answer.json` exists and is valid JSON.
 - **Slow Response**: Check your internet connection (API calls) or reduce the `k` value in the retriever for faster FAQ retrieval.
 
-## Contributing
-Feel free to submit issues or pull requests to improve the chatbot. Suggestions for enhancing the UI, optimizing performance, or expanding the FAQ dataset are welcome!
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details (create one if needed).
-
 ## Acknowledgments
 - Built with [Streamlit](https://streamlit.io/), [LangChain](https://www.langchain.com/), and [Google Generative AI](https://cloud.google.com/ai).
-- Inspired by modern chatbot interfaces like ChatGPT.
-
 ---
 
 ### Screenshots

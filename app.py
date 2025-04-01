@@ -61,8 +61,7 @@ def generate_response(query, retrieved_faqs):
         prompt += f"{i}. Question: {faq['question']}\n   Answer: {faq['answer']}\n\n"
     prompt += (
         f"User's question: {query}\n\n"
-        "Respond based on the FAQs if applicable, or generate a helpful answer if the "
-        "question is not directly covered."
+        "Respond in only in Bahasa Indonesia based on the FAQs if applicable, or generate a helpful answer if the question is not directly covered."
     )
     try:
         response = model.generate_content(prompt)

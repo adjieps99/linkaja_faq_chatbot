@@ -372,7 +372,7 @@
     "question":"apa ada batas transfer untuk kirim uang",
     "answer":"Maksimal dan minimal Kirim Uang ke sesama Akun LinkAja adalah sebagai berikut:\n1. Maksimal Pengiriman/bulan : Rp. 20.000.000/bulan\n2. Maksimal Pengiriman/hari Rp. 10.000.000/hari\n3. Maksimal Pengiriman/1xkirim: Rp 10.000.000 / 1x kirim\n4. Minimal Pengiriman ke Akun linkAja 1x kirim: Rp 100 / 1x Kirim\n\nMaksimal dan minimal Kirim Uang ke Rekening Bank:\n1. Maksimal Pengiriman/bulan : Rp. 20.000.000/bulan\n2. Maksimal jumlah pengiriman/bulan : 31x\n3. Maksimal Pengiriman/hari Rp. 2.000.000/hari\n4. Maksimal pengiriman/1x kirim: Rp 2.000.000 / 1x kirim",
     "topik":"transaksi",
-    "level":"linkaja",
+    "level":"linkaja"
 },
 {
     "question":"Apakah saldo yang diterima dari kirim uang bisa dicairkan",

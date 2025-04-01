@@ -34,8 +34,9 @@ Before running the chatbot, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/linkaja-qa-chatbot.git
-   cd linkaja-qa-chatbot
+   git clone https://github.com/adjieps99/linkaja_faq_chatbot.git
+   cd linkaja_faq_chatbot
+
    ```
 
 2. **Set Up a Virtual Environment** (optional but recommended):
